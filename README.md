@@ -1,6 +1,7 @@
 ## project list
 
 series | episodes
+--- | ---
 山风和表情很可怕的提督 | 3
 霞 | 6
 清霜的礼物 | 1
